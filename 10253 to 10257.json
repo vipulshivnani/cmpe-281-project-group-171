@@ -54,7 +54,7 @@
 				"Description":"Cheeses"
 			},
 			"Unit":"12 - 100 g pkgs",
-			"Price":12.50
+			"Price":12.50,
 			"Quantity":20
 		},
 
@@ -79,7 +79,7 @@
 				"Description":"Soft drinks, coffees, teas, beers, and ales"
 			},
 			"Unit":"750 cc per bottle",
-			"Price":18.00
+			"Price":18.00,
 			"Quantity":42
 		},
 		
@@ -103,7 +103,7 @@
 				"Description":"Desserts, candies, and sweet breads"
 			},
 			"Unit":"24 - 50 g pkgs.",
-			"Price":20.00
+			"Price":20.00,
 			"Quantity":40
 		}
 	]	
@@ -159,7 +159,7 @@
 				"Description":"Soft drinks, coffees, teas, beers, and ales"
 			},
 			"Unit":"12 - 355 ml cans",
-			"Price":4.50
+			"Price":4.50,
 			"Quantity":15
 		},
 		{
@@ -183,7 +183,7 @@
 				"Description":"Prepared meats"
 			},
 			"Unit":"24 boxes x 2 pies",
-			"Price":24.00
+			"Price":24.00,
 			"Quantity":21
 	   },
 	   {
@@ -207,7 +207,7 @@
 				"Description":"Dried fruit and bean curd"
 			},
 			"Unit":"5 kg pkg.",
-			"Price":10.00
+			"Price":10.00,
 			"Quantity":21
 	   }
     ]
@@ -265,7 +265,7 @@
 				"Description":"Soft drinks, coffees, teas, beers, and ales"
 			},
 			"Unit":"24 - 12 oz bottles",
-			"Price":19.00
+			"Price":19.00,
 			"Quantity":20
 		},
 		{
@@ -289,7 +289,7 @@
 				"Description":"Desserts, candies, and sweet breads"
 			},
 			"Unit":"32 - 500 g boxes",
-			"Price":17.45
+			"Price":17.45,
 			"Quantity":35
 		},
 		{
@@ -313,7 +313,7 @@
 				"Description":"Seaweed and fish"
 			},
 			"Unit":"24 - 250 g jars",
-			"Price":19.00
+			"Price":19.00,
 			"Quantity":25
 		},
 		{
@@ -337,7 +337,7 @@
 				"Description":"Cheeses"
 			},
 			"Unit":"5 kg pkg.",
-			"Price":55.00
+			"Price":55.00,
 			"Quantity":30
 		},
 	]
@@ -393,7 +393,7 @@
 				"Description":"Prepared meats"
 			},
 			"Unit":"48 pieces",
-			"Price":32.80
+			"Price":32.80,
 			"Quantity":15
 		},
 		{
@@ -417,7 +417,7 @@
 				"Description":"Sweet and savory sauces, relishes, spreads, and seasonings"
 			},
 			"Unit":"12 boxes",
-			"Price":13.00
+			"Price":13.00,
 			"Quantity":12
 		}		
 	]
@@ -443,7 +443,7 @@
 		"BirthDate":"1958-09-19",
 		"Photo":"...",
 		"Notes":"Margaret holds a BA in English literature from Concordia College and an MA from the American Institute of Culinary Arts. She was temporarily assigned to the London office before returning to her permanent post in Seattle."
-    },,
+    },
     "OrderDate":"1996-07-16 00:00:00",
     "Shipper":
 	{
@@ -473,7 +473,7 @@
 				"Description":"Desserts, candies, and sweet breads"
 			},
 			"Unit":"100 - 100 g pieces",
-			"Price":43.90
+			"Price":43.90,
 			"Quantity":25
 		},
 		{
@@ -497,7 +497,7 @@
 				"Description":"Soft drinks, coffees, teas, beers, and ales"
 			},
 			"Unit":"750 cc per bottle",
-			"Price":18.00
+			"Price":18.00,
 			"Quantity":6
 		},
 		{
@@ -521,7 +521,7 @@
 				"Description":"Sweet and savory sauces, relishes, spreads, and seasonings"
 			},
 			"Unit":"12 boxes",
-			"Price":13.00
+			"Price":13.00,
 			"Quantity":15
 		}
 	]
