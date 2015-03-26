@@ -38,7 +38,7 @@ after(): call(void Base.insertQuarter()){
 after(): call(void Base.insertDime()){
 	
 		if ( C50.coinValue < 50 ) {
-	        C50.coinValue += 10 ;
+	        C50.coinValue += 10;
 	    	System.out.println("Dime Inserted");
 	    }
 	    else {
